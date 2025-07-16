@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carelleprofeta&label=Profile%20views&color=0e75b6&style=flat" alt="carelleprofeta" /> </p>
 
-- 🌱 I’m currently learning **Payment Gateway API's**
+- 🌱 I’m currently learning **Data Analytics**
 
 - 📫 How to reach me **profetachrisantinecarelle@gmail.com**
 
