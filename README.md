@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **profetachrisantinecarelle@gmail.com**
 
-- 📄 Know about my experiences [Click Here] (https://www.linkedin.com/in/chrisantine-carelle-profeta/)
+- 📄 Know about my experiences [Click Here](https://www.linkedin.com/in/chrisantine-carelle-profeta/)
   
 </p>
 
