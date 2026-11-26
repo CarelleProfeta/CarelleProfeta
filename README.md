@@ -1,10 +1,10 @@
 <img src="https://art.pixilart.com/3e3fc9c4c42536a.gif" width="100%" height="350">
 <h1 align="center">Hi 👋, I'm Chrisantine Carelle Profeta</h1>
-<h3 align="center">I write codes for a living 🤓💻✨</h3>
+<h3 align="center">I write codes for a living and assess bank statements/passbooks 🤓💻✨</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carelleprofeta&label=Profile%20views&color=0e75b6&style=flat" alt="carelleprofeta" /> </p>
 
-- 🌱 I’m currently learning **Data Analytics and Visualization**
+- 🌱 I’m currently learning **Google ADK**
 
 - 📫 How to reach me **profetachrisantinecarelle@gmail.com**
 
